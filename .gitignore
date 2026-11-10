@@ -1,0 +1,14 @@
+# Personal data: never commit
+user_data*.json
+spots_state.json
+spots_state.tmp
+*.csv
+*.zip
+
+# Keys
+.env
+
+# Python
+__pycache__/
+.venv/
+venv/

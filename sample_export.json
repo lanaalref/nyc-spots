@@ -1,0 +1,17 @@
+{
+  "Likes and Favorites": {
+    "Favorite Videos": {
+      "FavoriteVideoList": [
+        {"Date": "2026-10-20 19:02:11", "Link": "https://www.tiktokv.com/share/video/7400000000000000001/"},
+        {"Date": "2026-10-01 12:00:00", "Link": "https://www.tiktokv.com/share/video/7400000000000000002/"},
+        {"Date": "2026-09-15 09:00:00", "Link": "https://www.tiktokv.com/share/video/7400000000000000003/"}
+      ]
+    },
+    "Like List": {
+      "ItemFavoriteList": [
+        {"date": "2026-10-22 22:10:00", "link": "https://www.tiktokv.com/share/video/7400000000000000004/"},
+        {"date": "2026-08-01 10:00:00", "link": "https://www.tiktokv.com/share/video/7400000000000000005/"}
+      ]
+    }
+  }
+}
